@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 👋🏼
+
+### I'm an incoming Junior Software Engineer at Zaizi and have recently graduated from General Assembly's Software Engineering Immersive.
 
 <!--
 **hannahakhtar/hannahakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
