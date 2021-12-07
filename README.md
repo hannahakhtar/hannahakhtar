@@ -1,6 +1,6 @@
 ### Hey! 👋🏼
 
-### I'm a Junior Software Developer at Zaizi and graduated from General Assembly's Software Engineering Immersive in March 2021.
+### I'm a Associate Product Developer at AND Digital and graduated from General Assembly's Software Engineering Immersive in March 2021.
 
 <!--
 **hannahakhtar/hannahakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
