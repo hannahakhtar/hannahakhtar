@@ -1,4 +1,4 @@
-### Hey! 👋🏼
+### Hello! 👋🏼
 
 ### I'm a Associate Product Developer at AND Digital and graduated from General Assembly's Software Engineering Immersive in March 2021.
 
